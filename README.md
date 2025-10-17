@@ -13,7 +13,7 @@ An interactive Employee Directory Web Application that allows users to view, sea
 
 Clone the repository:
 
-git clone
+git clone :https://github.com/mugeshk570-coder/IBM-Employee-Directory-With-Search.git
 
 Open in VS Code or any IDE.
 
